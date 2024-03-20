@@ -1,6 +1,9 @@
 # IPL-Analysis-in-Power-BI
 IPL cricket Analysis by using Power BI
 
+![ipl1](https://github.com/Ekaksh77/IPL-Analysis-in-Power-BI/assets/137069741/2a0243d5-88f9-44cb-9d33-d4db228e229b)
+
+
 Dash Board:
 1. Title Winner
 2. Orange Cap
